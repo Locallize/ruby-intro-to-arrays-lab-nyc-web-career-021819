@@ -1,22 +1,22 @@
-def instantiate_new_array
+@def instantiate_new_array
   array = []
   array
 end
-def array_with_two_elements
+def @array_with_two_elements
   
 end
-def first_element
+def @first_element
   array[0]
 end
-def third_element
+def @third_element
   array[2]
 end
-def last_element
+def @last_element
   
 end
-def last_element_with_array_methods
+def @last_element_with_array_methods
   array[-1]
 end
-def length_of_array
+def @length_of_array
   array.length
 end
