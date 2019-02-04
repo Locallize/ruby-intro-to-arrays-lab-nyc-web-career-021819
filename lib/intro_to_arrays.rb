@@ -5,7 +5,7 @@ end
 def array_with_two_elements
   array = [2,3]
 end
-def first_element
+def first_element(element)
   array[0]
 end
 def third_element
